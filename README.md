@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShreyasManjunath
 - 👀 I’m interested in ROS/ROS2 development on AMRs
-- 💞️ I’m looking to collaborate on C++, ROS and Visual SLAM, UAV Path Planning extension projects.
+- 💞️ I’m looking to collaborate on C++, ROS/ROS2 and SLAM
 - 📫 How to reach me: mshreyas11@gmail.com
 
 <!---
